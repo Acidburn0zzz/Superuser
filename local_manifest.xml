@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="koush/Superuser" path="external/koush/Superuser" remote="github" revision="master" />
-  <project name="koush/Widgets" path="external/koush/Widgets" remote="github" revision="master" />
+  <project name="Acidburn0zzz/Superuser" path="external/acidburn0zzz/Superuser" remote="github" revision="fork-master" />
+  <project name="Acidburn0zzz/Widgets" path="external/acidburn0zzz/Widgets" remote="github" revision="fork-master" />
 </manifest>
